@@ -3,7 +3,6 @@ from tkinter import *
 from bs4 import BeautifulSoup
 import basc_py4chan
 from textblob import TextBlob
-from time import sleep
 from numpy import average
 
 root = Tk()
